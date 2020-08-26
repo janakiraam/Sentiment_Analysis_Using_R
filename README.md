@@ -6,7 +6,11 @@ SENTIMENT ANALYSIS USING R
 1)	Created a table in oracle 11g (XE edition), in which reviews of employees as stored.
 2)	Cleansing of data to create a word cloud.
 3)	Analysis on the reviews is done based on naive bayes algorithm on the comments.
+
+
 LIBRARY FILES USED:
+
+
 1)	RODBC
 2)	tm
 3)	ggplot2
